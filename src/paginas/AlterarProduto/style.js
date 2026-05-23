@@ -22,7 +22,7 @@ const styles = StyleSheet.create({
   marginLeft:"auto",
   marginRight:"auto"
  },
- buttonNewTask:{
+ buttonUpdate:{
   width:60,
   height:60,
   position:"absolute",

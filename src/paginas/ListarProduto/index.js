@@ -92,7 +92,7 @@ export default function ListarProduto({ navigation }) {
 
                 <TouchableOpacity
                     style={style.buttonNewProduto}
-                    onPress={() => navigation.navigate("incluirProduto")}
+                    onPress={() => navigation.navigate("IncluirProduto")}
                 >
                     <Text style={style.iconButton}>+</Text>
                 </TouchableOpacity>
